@@ -124,10 +124,17 @@ python script.py
 
 
 ## Accuracy Screenshots
+<p> Accuracy : With Single Neural Network Architecture </p>
 
-<p> Accuracy : Hidden Layers with Regularization Techniques </p>
+![screenshot1]
 
-![product-screenshot1]
+<p> Accuracy : With Multiple Hidden Layers Architecture </p>
+
+![screenshot2]
+
+<p> Accuracy : With Multiple Hidden Layers and with Regularization Techniques </p>
+
+![screenshot3]
 
 
 ## Roadmap
@@ -160,4 +167,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-[product-screenshot1]: readme_files/nn_reg.jpeg
+[screenshot1]: readme_files/nn.png
+[screenshot2]: readme_files/hl_nn.png
+[screenshot3]: readme_files/hl_nn_reg.jpeg
