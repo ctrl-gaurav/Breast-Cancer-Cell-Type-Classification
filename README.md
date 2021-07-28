@@ -1,25 +1,16 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/ctrl-gaurav/Breast-Cancer-Cell-Type-Classification">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.jpg" alt="Logo" width="192" height="108">
   </a>
 
   <h3 align="center">Breast Cancer Prediction and Classification</h3>
 
   <p align="center">
-    A Machine Learning as well as Neural Network approach to solve classification problem.
+    A Machine Learning as well as Deep Learning approach to solve classification problem.
     <br />
-    <a href="https://github.com/ctrl-gaurav/Breast-Cancer-Cell-Type-Classification"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ctrl-gaurav/Breast-Cancer-Cell-Type-Classification/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/ctrl-gaurav/Breast-Cancer-Cell-Type-Classification">View Demo</a>
@@ -32,38 +23,24 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [About The Project](#about-the-project)
+- [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Product Screenshots](#product-screenshots)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 The aim of this project is to select appropriate feature to train model and find out which classification algorithm work best for the given dataset.
 This dataset of cancer cells characteristics was created by the University of Wisconsin. The features from the data set describe characteristics of the cell nuclei and are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.
@@ -107,8 +84,71 @@ And to improve this, when dense neural network with some regularization techniqu
 Accuracy: 90.35%
 Loss: 0.2877
 
-### Built With
+
+## Built With
 
 * [Keras](https://keras.io/)
 * [Tensorflow](https://www.tensorflow.org/)
 * [scikit-learn](https://scikit-learn.org/stable/)
+
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+
+### Prerequisites
+
+You will need:
+
+- Python 
+- Tensorflow 
+- scikit-learn
+
+
+### Installation
+
+1. Make sure you have python3 setup on your system
+2. Clone the repo
+```sh
+git clone https://github.com/ctrl-gaurav/Breast-Cancer-Cell-Type-Classification.git
+```
+3. Install requirements
+```sh
+pip install -r requirements.txt
+```
+4. Run script.py 
+```sh
+python script.py
+```
+
+
+## Roadmap
+
+See the [open issues](https://github.com/ctrl-gaurav/Breast-Cancer-Cell-Type-Classification/issues) for a list of proposed features (and known issues).
+
+
+## Contributing
+
+To add your contributions to this project follow these steps :
+
+1. Fork the Project
+2. Create your improvements Branch (`git checkout -b improvements/myimprovements`)
+3. Commit your Changes (`git commit -m 'Done some Improvements'`)
+4. Push to the Branch (`git push origin improvements/myimprovements`)
+5. Open a Pull Request
+
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+## Contact
+
+- Gaurav 
+  - Insta Handle - [@ig_itsgk](https://www.instagram.com/ig_itsgk/) 
+  - LinkedIn - [Gaurav](https://www.linkedin.com/in/gaurav-726239157/) <br />
+- Project Link: [https://github.com/ctrl-gaurav/Breast-Cancer-Cell-Type-Classification](https://github.com/ctrl-gaurav/Breast-Cancer-Cell-Type-Classification)
+
+
