@@ -31,7 +31,7 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Product Screenshots](#product-screenshots)
+- [Accuracy Screenshots](#accuracy-screenshots)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
@@ -123,6 +123,13 @@ python script.py
 ```
 
 
+## Accuracy Screenshots
+
+<p> Accuracy : Hidden Layers with Regularization Techniques </p>
+
+![product-screenshot1]
+
+
 ## Roadmap
 
 See the [open issues](https://github.com/ctrl-gaurav/Breast-Cancer-Cell-Type-Classification/issues) for a list of proposed features (and known issues).
@@ -152,3 +159,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - Project Link: [https://github.com/ctrl-gaurav/Breast-Cancer-Cell-Type-Classification](https://github.com/ctrl-gaurav/Breast-Cancer-Cell-Type-Classification)
 
 
+
+[product-screenshot1]: readme_files/nn_reg.jpeg
