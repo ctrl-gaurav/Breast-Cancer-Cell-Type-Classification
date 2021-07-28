@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ctrl-gaurav/Breast-Cancer-Cell-Type-Classification">
-    <img src="images/logo.jpg" alt="Logo" width="192" height="108">
+    <img src="images/logo.jpg" alt="Logo" width="576" height="324">
   </a>
 
   <h3 align="center">Breast Cancer Prediction and Classification</h3>
